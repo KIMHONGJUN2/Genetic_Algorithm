@@ -7,4 +7,4 @@
 ![](https://github.com/KIMHONGJUN2/Genetic_Algorithm/blob/master/src/Genetic_graph.png?raw=true)
 
 ![](https://github.com/KIMHONGJUN2/Genetic_Algorithm/blob/master/src/estimate_a.png?raw=true)
-<br> 추정한 a(기울기) 값
+<br> 추정한 a(기울기)값
